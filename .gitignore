@@ -1,0 +1,7 @@
+# Ignore node modules
+app/node_modules
+
+# Ignore DynamoDB Local files
+ddb/DynamoDBLocal_lib
+ddb/DynamoDBLocal.jar
+ddb/dynamodb_local_latest.zip

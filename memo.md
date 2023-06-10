@@ -19,6 +19,7 @@ cd app
 <!-- Github -->
 gh auth login
 git init
+code .gitignore
 git add .
 git commit -m 'first dive'
 gh repo create try-ddb-local-w-express
